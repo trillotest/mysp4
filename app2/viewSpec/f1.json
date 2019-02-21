@@ -1,0 +1,11 @@
+{
+  "name" : "f1",
+  "type" : "form",
+  "css" : {
+    "width" : "450px",
+    "padding" : "20px",
+    "border" : "1px solid rgb(238, 238, 238)",
+    "border-radius" : "5px"
+  },
+  "cssClass" : "trillo-form trillo-item-design-mode"
+}
